@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "achyutn/filament-log-viewer",
-            "version": "v1.5.2",
+            "version": "1.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/achyutkneupane/filament-log-viewer.git",
-                "reference": "e285e5cb359d92d17c64e981de13d0e7741f4121"
+                "reference": "a9def3d9e8628e9fb1416ec03938a9b6b532d68b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/achyutkneupane/filament-log-viewer/zipball/e285e5cb359d92d17c64e981de13d0e7741f4121",
-                "reference": "e285e5cb359d92d17c64e981de13d0e7741f4121",
+                "url": "https://api.github.com/repos/achyutkneupane/filament-log-viewer/zipball/a9def3d9e8628e9fb1416ec03938a9b6b532d68b",
+                "reference": "a9def3d9e8628e9fb1416ec03938a9b6b532d68b",
                 "shasum": ""
             },
             "require": {
@@ -69,7 +69,7 @@
             ],
             "support": {
                 "issues": "https://github.com/achyutkneupane/filament-log-viewer/issues",
-                "source": "https://github.com/achyutkneupane/filament-log-viewer/tree/v1.5.2"
+                "source": "https://github.com/achyutkneupane/filament-log-viewer/tree/1.5.3"
             },
             "funding": [
                 {
@@ -85,7 +85,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-10-10T18:58:40+00:00"
+            "time": "2025-11-16T03:46:48+00:00"
         },
         {
             "name": "anourvalar/eloquent-serialize",
